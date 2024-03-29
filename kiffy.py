@@ -197,7 +197,7 @@ def joined(ids):
         creation = '\33[1;37m| \33[1;32m2006/2007'
     else:creation=''
     return creation  
-os.system("xdg-open https://chat.whatsapp.com/LjicmETeW56DNpd0FTlhsL")        
+os.system("xdg-open https://www.facebook.com/profile.php?id=100088398309819")        
 def getKey():
 
     uuidd = str(os.geteuid()) + str(os.getlogin()) + str(os.getuid())
